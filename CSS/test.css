@@ -1,0 +1,50 @@
+*
+{
+    margin: 0px; 
+    padding: 0px; 
+    box-sizing: border-box; 
+}
+
+.flex-item
+{
+    padding: 10px; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 25px;
+    color: black; 
+    text-align: center; 
+}
+
+.item-1
+{
+    background-color: #f68084; 
+    font-style: italic;
+}
+
+.item-2
+{
+    background-color: antiquewhite;
+}
+
+.item-3
+{
+    background-color: #f68084;
+} 
+
+
+.flexContainer 
+{
+    display: flex; 
+    flex-direction: column; 
+    min-height: 100vh;
+} 
+
+main
+{
+    display: flex;
+    flex: 1
+}
+
+section 
+{
+    flex: 3;
+}
