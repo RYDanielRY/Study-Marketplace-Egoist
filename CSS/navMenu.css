@@ -1,11 +1,7 @@
 nav
 {
-    background-color: wheat; 
+    background-color: beige; 
     margin: 10px 10px 0px 10px; 
-    border-top-left-radius: 15px;  
-    border-top-right-radius: 15px; 
-    border-bottom-left-radius: 15px; 
-    border-bottom-right-radius: 15px;
 } 
 
 nav ul 
@@ -23,7 +19,7 @@ nav ul li
 
 nav ul li a:link, nav ul li a:visited
 {
-    color: #954b4b; 
+    color: #9d81ba; 
     border-bottom: none; 
 } 
 
